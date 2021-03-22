@@ -1,4 +1,4 @@
-👋 Hi, I’m @NST-byte
+👋 Hi, I’m NStollmann
 
 I’m interested in Data Science with a focus on machine learning problems and deep learning.
 
